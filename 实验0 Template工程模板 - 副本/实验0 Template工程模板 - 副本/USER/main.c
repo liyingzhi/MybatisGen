@@ -4,6 +4,11 @@
 #include "ldc.h"
 #include "myiic.h"
 
+//
+
+//Modified by Li Yingli 20160728
+
+//
  int main(void)
  {		
  	u16 t[4];
